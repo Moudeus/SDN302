@@ -35,7 +35,7 @@ Ghi chép cá nhân hoặc tóm tắt kiến thức từ các buổi học.
 🚀 Hướng dẫn sử dụng
 
 Clone repository:
-git clone https://github.com/[your-username]/SDN302-NodeJS-Docs.git
+git clone https://github.com/Moudeus/SDN302.git
 
 
 Duyệt qua các thư mục để tìm tài liệu bạn cần.
