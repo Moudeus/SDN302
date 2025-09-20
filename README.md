@@ -1,47 +1,30 @@
 📚 SDN302 - Tài liệu học tập Node.js
 
-
 ## 🌟 Giới thiệu
+
 Repository này được tạo để lưu trữ và tổ chức tài liệu học tập, bài tập, và tài nguyên liên quan đến môn SDN302 - Lập trình Node.js. Mục tiêu là giúp sinh viên dễ dàng truy cập, học tập và chia sẻ kiến thức về Node.js.
 📂 Cấu trúc Repository
-
-
 
 Thư mục
 Mô tả
 
-
-
-/slides
-Chứa các slide bài giảng của môn SDN302.
-
-
 /exercises
 Bài tập thực hành Node.js (bao gồm code mẫu và hướng dẫn chi tiết).
 
+/assignment
+Bài tập thực hành node.js quan trọng, là những dạng bài tổng hợp kiến thức đã học thừ các bài exercises.
 
-/projects
-Các dự án nhỏ hoặc bài tập lớn liên quan đến môn học.
-
-
-/references
-Tài liệu tham khảo, tutorial, và link hữu ích về Node.js.
-
-
-/notes
-Ghi chép cá nhân hoặc tóm tắt kiến thức từ các buổi học.
-
+/practice
+Ngoài những bài đi theo hướng dẫn đã được học, việc luyện tập thêm cũng rất cần thiết. Đây cũng là nơi mình thực hiện các bài tại lớp.
 
 🚀 Hướng dẫn sử dụng
 
 Clone repository:
 git clone https://github.com/Moudeus/SDN302.git
 
-
 Duyệt qua các thư mục để tìm tài liệu bạn cần.
 
 Đối với các bài tập code, đảm bảo đã cài đặt môi trường Node.js.
-
 
 Cài đặt môi trường
 
@@ -54,15 +37,11 @@ Chạy code mẫu
 Vào thư mục bài tập:
 cd exercises/[tên-bài-tập]
 
-
 Cài đặt dependencies (nếu có):
 npm install
 
-
 Chạy code:
 node index.js
-
-
 
 📚 Tài liệu tham khảo
 
@@ -84,6 +63,5 @@ Nếu bạn có ý tưởng hoặc phát hiện lỗi, hãy mở một Issue đ�
 
 Email: [namson1821@gmail.com]
 GitHub: Moudeus
-
 
 ⭐ Star repository này nếu bạn thấy hữu ích!Cảm ơn bạn đã sử dụng và đóng góp vào kho tài liệu SDN302! 🎉
